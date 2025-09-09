@@ -16,6 +16,7 @@
   },
   "dependencies": {
     "@genkit-ai/google-genai": "^1.18.0",
-    "genkit": "^1.18.0"
+    "genkit": "^1.18.0",
+    "genkitx-chromadb": "^1.18.0"
   }
 }
